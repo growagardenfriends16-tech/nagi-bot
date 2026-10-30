@@ -1,35 +1,25 @@
-<!-- TERMS OF SERVICE & PRIVACY POLICY SECTION -->
-<footer id="legal" style="background: #0f1015; color: #a0a0b0; padding: 40px 20px; font-family: sans-serif; text-align: center; border-top: 1px solid #1f2230;">
-    <div style="max-width: 800px; margin: 0 auto; text-align: left;">
-        
-        <!-- TERMS OF SERVICE -->
-        <div id="tos" style="margin-bottom: 40px;">
-            <h2 style="color: #ffffff; font-size: 20px; margin-bottom: 10px;">📜 Terms of Service</h2>
-            <p style="font-size: 14px; line-height: 1.6;">
-                By inviting or using <strong>NAGI Bot</strong> in your Discord server, you agree to the following terms:
-            </p>
-            <ul style="font-size: 14px; line-height: 1.8; margin-left: 20px;">
-                <li>NAGI Bot is provided "as is" without guarantees of 100% uptime.</li>
-                <li>You may not use the bot to violate Discord's Terms of Service or Community Guidelines.</li>
-                <li>Abusing exploits, glitches, or spamming commands may result in a ban from using NAGI Bot.</li>
-            </ul>
-        </div>
+# Terms of Service & Privacy Policy
 
-        <hr style="border: 0; border-top: 1px solid #232736; margin: 30px 0;">
+---
 
-        <!-- PRIVACY POLICY -->
-        <div id="privacy">
-            <h2 style="color: #ffffff; font-size: 20px; margin-bottom: 10px;">🔒 Privacy Policy</h2>
-            <p style="font-size: 14px; line-height: 1.6;">
-                NAGI Bot respects user privacy and only collects necessary data to function:
-            </p>
-            <ul style="font-size: 14px; line-height: 1.8; margin-left: 20px;">
-                <li><strong>Stored Data:</strong> Discord User IDs, Guild IDs, coin balances, level XP, and server settings.</li>
-                <li><strong>Data Usage:</strong> Stored data is exclusively used to power bot features like economy, levels, and origins.</li>
-                <li><strong>Data Sharing:</strong> We do not sell or share any user data with third parties.</li>
-                <li><strong>Data Removal:</strong> Server owners or users can request data deletion by contacting the bot developer or removing the bot.</li>
-            </ul>
-        </div>
+## Terms of Service
 
-    </div>
-</footer>
+By inviting or using **NAGI Bot** in your Discord server, you agree to the following terms:
+
+* **As-Is Basis:** NAGI Bot is provided "as is" without guarantees of 100% uptime or uninterrupted service.
+* **Discord Guidelines:** You may not use the bot to violate Discord's Terms of Service or Community Guidelines.
+* **Fair Use:** Abusing exploits, glitches, or spamming commands may result in a permanent ban from using NAGI Bot features.
+
+---
+
+## Privacy Policy
+
+NAGI Bot respects user privacy and only collects necessary data required for core functionality:
+
+* **Data Collected:** User IDs, Server IDs, and Channel IDs are stored strictly for economy balances, leveling rankings, and server configuration settings.
+* **No Personal Info:** No personal identifying information (such as real names, emails, or passwords) is ever collected or stored.
+* **Data Protection:** Stored data is kept confidential and is never shared or sold to third parties.
+
+---
+
+*Developed with love by **Nagi_editz & Gemini***
