@@ -1,10 +1,12 @@
 # NAGI BOT — Official Documentation & System Architecture
 
-Supercharge your server. NAGI Bot is a high-performance, multi-purpose system engineered to deliver advanced economy engines, real-time stock simulations, chat leveling, minigames, and administrative controls to your Discord community.
+Supercharge your server. NAGI Bot is a high-performance system engineered to deliver advanced economy engines, real-time stock simulations, chat leveling, minigames, and administrative controls.
+
+*Type `/help` inside your Discord server anytime for quick in-bot access.*
 
 ---
 
-## 🌐 Official Access & Documentation
+## 🌐 Official Access & Links
 
 | Resource | Link |
 | :--- | :--- |
@@ -37,6 +39,8 @@ NAGI Bot respects user privacy and only collects necessary data required for cor
 ---
 
 ## 🚀 COMPLETE UNLIMITED COMMAND MANUAL
+
+*(For more info on any command, just click or type `/help` inside Discord)*
 
 ### I. ECONOMY & BUSINESS SYSTEM
 Build a global corporate conglomerate, trade equities, and generate passive revenue streams.
